@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![](https://visitcount.itsvg.in/api?id=Ahuuy&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 <h3>Things I code with</h3>
 <p>
